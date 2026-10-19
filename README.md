@@ -5,7 +5,7 @@ Panduan singkat untuk men-setup proyek ini setelah clone.
 1. Clone repo ini
 ```bash
 git clone https://github.com/imamamirulloh23-ai/skill-passport-xii-2026-v2.git
-cd skill-passport-xii-2026
+cd skill-passport-xii-2026-v2
 ```
 
 2. Install dependency PHP
